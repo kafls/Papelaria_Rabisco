@@ -5,11 +5,11 @@ Projeto criado durante as aulas do curso técnico de Desenvolvimento de Sistemas
 Este é um projeto Next.js inicializado com create-next-app.
 Primeiro, execute o servidor de desenvolvimento:
 npm executar dev
-# ou
+ou
 desenvolvedor de fios
-# ou
+ou
 desenvolvedor pnpm
-# ou
+ou
 desenvolvedor de pão
 Abra http://localhost:3000 com seu navegador para ver o resultado.
 Você pode começar a editar a página modificando pages/index.js. A página é atualizada automaticamente conforme você edita o arquivo.
