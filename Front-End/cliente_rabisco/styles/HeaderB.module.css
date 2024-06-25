@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100w;
+    padding: 1em 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20vw;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 1 rem;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.img{
+    width: 60px;
+    height: auto;
+}
+

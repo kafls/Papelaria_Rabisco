@@ -1,0 +1,12 @@
+/* CSS apenas para todas as páginas */
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
